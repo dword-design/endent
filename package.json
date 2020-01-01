@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/ZhouHansen/endent#readme",
   "dependencies": {
-    "dedent": "^0.7.0",
+    "dedent": "dword-design/dedent#fork",
     "fast-json-parse": "^1.0.3",
     "objectorarray": "^1.0.3"
   },
