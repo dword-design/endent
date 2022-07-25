@@ -1,6 +1,6 @@
 {
-  "name": "endent",
-  "version": "1.4.0",
+  "name": "@dword-design/endent",
+  "version": "1.4.1",
   "description": "➡️ An ES6 string tag that makes indentation right",
   "main": "endent.js",
   "scripts": {
@@ -32,5 +32,8 @@
   "devDependencies": {
     "standard": "^11.0.1",
     "tape": "^4.8.0"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
