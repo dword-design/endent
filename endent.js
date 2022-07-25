@@ -1,4 +1,4 @@
-const dedent = require('dedent')
+const dedent = require('@dword-design/dedent')
 const objectorarray = require('objectorarray')
 const parse = require('fast-json-parse')
 
