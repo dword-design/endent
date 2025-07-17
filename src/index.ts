@@ -65,4 +65,4 @@ endent.pretty = (data?: object | string | number | undefined | null) => {
     : data;
 };
 
-export default endent;
+export = endent;
