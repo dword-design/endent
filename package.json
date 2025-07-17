@@ -2,6 +2,7 @@
   "name": "@dword-design/endent",
   "version": "1.4.2",
   "description": "➡️ An ES6 string tag that makes indentation right",
+  "type": "module",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "prepublishOnly": "npm test",
