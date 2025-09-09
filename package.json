@@ -1,7 +1,8 @@
 {
-  "name": "endent",
-  "version": "2.0.1",
+  "name": "@dword-design/endent",
+  "version": "1.4.7",
   "description": "➡️ An ES6 string tag that makes indentation right",
+  "type": "module",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "prepublishOnly": "npm test",
@@ -29,14 +30,14 @@
   },
   "homepage": "https://github.com/ZhouHansen/endent#readme",
   "dependencies": {
-    "dedent": "^0.7.0",
+    "dedent": "npm:@dword-design/dedent@^0.7.0",
     "fast-json-parse": "^1.0.3",
     "objectorarray": "^1.0.4"
   },
   "devDependencies": {
-    "@types/jest": "^25.2.1",
-    "jest": "^25.3.0",
-    "ts-jest": "^25.3.1",
-    "typescript": "^3.8.3"
+    "@types/jest": "^30.0.0",
+    "jest": "^30.0.4",
+    "ts-jest": "^29.4.0",
+    "typescript": "^5.8.3"
   }
 }
